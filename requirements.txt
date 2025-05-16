@@ -1,5 +1,5 @@
 protobuf==3.20.*
-plotly.graph_objects
+plotly
 streamlit
 numpy
 pandas
